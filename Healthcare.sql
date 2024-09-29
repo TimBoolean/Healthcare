@@ -23,7 +23,6 @@ Load data infile 'health.csv' into table healthy
 fields terminated by ','
 ignore 1 lines;
 
-drop table healthy;
 
 select * from healthy;
 
