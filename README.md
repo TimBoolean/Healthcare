@@ -7,7 +7,7 @@ In this analysis, I wanted to get a better understanding of the demographics of 
 From 2019 - 2020, we saw over 50% increase in billing amount. How much can we contribute that to Covid? What can we do to optomize patient experience while sustating companies growth?
 
 
-# Recommendation
+Question to Ask
 
 As people being to reach age 65+ we will a rapid uptick in those patients. We should focus on the patients closing the age of 65 and work more closely with the older population as the demand rises.
 
